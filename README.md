@@ -1,5 +1,5 @@
-# REPOSITÓRIO DO PROJETO GIT/GITHUB DA DIO
-Desafio GIT/GITHUB - Primeiro Repositório
+# MAGNÍFICO REPOSITÓRIO DO PROJETO GIT/GITHUB DA DIO
+Explêndido Primeiro Repositório
 
-## Links úteis:
-[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+## Linkríveis:
+[Sintaxe básica Markdown. (acessado 36264 vezes)](https://www.markdownguide.org/basic-syntax/)
