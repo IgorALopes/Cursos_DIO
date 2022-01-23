@@ -1,0 +1,2 @@
+Estruturas condicionais – https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals
+Laços de repetição – https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
