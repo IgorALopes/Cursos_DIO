@@ -56,3 +56,8 @@ LINUX
 - em 15 de Março de 2022 - Linux: Fundamentos de Redes e Comandos Avançados - D0A4FC92 - 2 horas
 - em 16 de Março de 2022 - Linux: Controle de Usuários e (Des)Compactação de Arquivos - 423C5D2E - 3 horas
 - em 16 de Março de 2022 - Linux: Gerenciamento de Pacotes - AC950797 - 2 horas
+
+PYTHON
+- em 24 de Março de 2022 - Introdução à programação com Python - 63E3CB33 - 8 horas
+- em 28 de Março de 2022 - Princípios de Pensamento Computacional com Python - 1AB3CA95 - 1 hora
+- em 31 de Março de 2022 - Segurança da informação com Python - 2522D6C9 - 5 horas
