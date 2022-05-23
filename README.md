@@ -6,7 +6,8 @@ Explêndido Primeiro Repositório
 
 DIO - Digital Innovation One
 Igor de A Lopes
-Cursos concluidos
+
+CURSOS CONCLUÍDOS
 
 LÓGICA DE PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
 - em 27 de Dezembro de 2021 - Lógica de Programação Essencial - 51A21D49 - 4 horas
