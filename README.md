@@ -1,9 +1,3 @@
-# MAGNÍFICO REPOSITÓRIO DE ESTUDOS DOS CURSOS DA DIO
-Explêndido Primeiro Repositório
-
-## Linkríveis:
-[Sintaxe básica Markdown.](https://www.markdownguide.org/basic-syntax/)
-
 DIO - Digital Innovation One
 Igor de A Lopes
 
@@ -13,6 +7,8 @@ LÓGICA DE PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
 - em 27 de Dezembro de 2021 - Lógica de Programação Essencial - 51A21D49 - 4 horas
 - em 29 de Dezembro de 2021 - Aprenda o que são Estrutura de Dados e Algoritmos - 3555299B - 2 horas
 - em 11 de Março de 2022 - Pensamento Computacional - 72945737 - 2 horas
+- em 07 de Novembro de 2022 - Introdução ao Desenvolvimento Moderno de Software - B3D1F298 - 2 horas
+- em 07 de Novembro de 2022 - Introdução à Programação e Pensamento Computacional - 2854C375 - 5 horas
 
 GIT E GITHUB
 - em 30 de Dezembro de 2021 - Introdução ao Git e ao GitHub - 3CB49799 - 5 horas
@@ -38,6 +34,11 @@ JAVASCRIPT
 - em 12 de Fevereiro de 2022 - Construindo o seu primeiro jogo de naves - 61AD563B - 5 horas
 - em 18 de Fevereiro de 2022 - Introdução ao ReactJS - 00DB47DE - 3 horas
 - em 23 de Fevereiro de 2022 - Desenvolvimento de aplicações para internet com ReactJS - 7A9E7B1B - 4 horas
+- em 07 de Novembro de 2022 - Primeiros Passos Com JavaScript - 27EDFD8C - 3 horas
+- em 07 de Novembro de 2022 - Conhecendo Funções JavaScript - 2BFDCDDB - 2 horas
+- em 07 de Novembro de 2022 - Criando Objetos e Classes em JavaScript - E955EE8C - 2 horas
+- em 07 de Novembro de 2022 - Arrays e Estruturas de Repetição em JavaScript - 360C63E8 - 2 horas
+- em 14 de Novembro de 2022 - Importação e Exportação com JavaScript - 467D1B4F - 1 hora
 
 SQL SERVER
 - em 14 de Fevereiro de 2022 - SQL Server: Boas práticas em bancos relacionais - 56E630D4 - 2 horas
