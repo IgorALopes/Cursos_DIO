@@ -39,6 +39,7 @@ JAVASCRIPT
 - em 07 de Novembro de 2022 - Criando Objetos e Classes em JavaScript - E955EE8C - 2 horas
 - em 07 de Novembro de 2022 - Arrays e Estruturas de Repetição em JavaScript - 360C63E8 - 2 horas
 - em 14 de Novembro de 2022 - Importação e Exportação com JavaScript - 467D1B4F - 1 hora
+- em 14 de Novembro de 2022 - Introdução ao Desenvolvimento Web com JavaScript - 49E8A72F - 1 hora
 
 SQL SERVER
 - em 14 de Fevereiro de 2022 - SQL Server: Boas práticas em bancos relacionais - 56E630D4 - 2 horas
